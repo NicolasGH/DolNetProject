@@ -1,4 +1,4 @@
-package BlockParser;
+package com.blockparser;
 
 
 import org.bitcoinj.core.Block;
@@ -10,8 +10,6 @@ import org.bitcoinj.utils.BlockFileLoader;
 import java.io.*;
 import java.text.SimpleDateFormat;
 import java.util.*;
-//21223fhvs
-//5252
 
 
 /**
